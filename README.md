@@ -5,6 +5,18 @@ Android + Kotlin
 
 <br>
 
+Android Platform Architecture
+=
+
+<br>
+
+
+JVM, Compile, Build
+=
+
+<br>
+
+
 Android 4 Components
 =
 
@@ -75,7 +87,7 @@ Life Cycle
 
 <br>
 
-Activity Data Exchange
+Data Exchange
 -
 
 ### Parcel
@@ -85,11 +97,6 @@ Lib-Parcelable
 <br>
 
 EventBus
--
-
-<br>
-
-Loader
 -
 
 <br>
@@ -111,8 +118,22 @@ SharedPreference, Lib-Hawk
 
 <br>
 
+Service
+-
 
-Service, BroadCastReceiver, ContentProvider
+<br>
+
+BroadCastReceiver
+-
+
+<br>
+
+ContentProvider
+-
+
+<br>
+
+Loader
 -
 
 <br>
@@ -134,9 +155,10 @@ Retrofit2
 
 <br>
 
-
 OOP
 =
+
+<br>
 
 Design Pattern
 =
@@ -146,14 +168,19 @@ Design Pattern
 Java 8
 =
 
+<br>
+
 RxJava2
 =
+
 <br>
 
 Architecture
--
+=
 
 MVP, MVVM, Android Architecture Components
+
+<br>
 
 Dagger2
 =
