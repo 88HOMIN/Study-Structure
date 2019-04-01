@@ -62,9 +62,6 @@ Frame, Relative, Linear, Coordinate, Constraint
 
 ButterKnife, DataBinding
 
-
-### Toolbar
-
 ### RecyclerView
 
 Lib-FlexibleAdapter
@@ -76,6 +73,10 @@ Lib-FlexibleAdapter
 ### ImageView
 
 ### Lib-Glide
+
+### Toolbar
+
+### Drawer
 
 <br>
 
