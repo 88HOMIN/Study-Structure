@@ -1,4 +1,4 @@
-Android - Kotlin ~ AWS - Serverless.
+Android ~ Kotlin | AWS ~ Serverless.
 =
 
 #### 안드로이드 코틀린 병렬 학습을 통해 안드로이드를 이해하고,
