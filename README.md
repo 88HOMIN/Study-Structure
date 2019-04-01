@@ -185,14 +185,22 @@ MVP, MVVM, Android Architecture Components
 Dagger2
 =
 
+Fabric
+=
+
+Firebase
+=
+
 Kotlin
 =
 
 Jetpack
 =
 
-Fabric
+AWS
 =
 
-Firebase
+Serverless
 =
+
+
