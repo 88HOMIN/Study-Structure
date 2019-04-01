@@ -2,6 +2,7 @@ Android + Kotlin
 =
 
 #### 안드로이드 코틀린 병렬 학습.
+<br>
 
 Android 4 Components
 -
@@ -16,8 +17,7 @@ Android 4 Components
 
 
 ### Content Provider
-
-
+<br>
 
 
 Activity
@@ -30,8 +30,7 @@ Activity
 
 
 ### Permission
-
-
+<br>
 
 
 View
@@ -61,12 +60,15 @@ Lib-FlexibleAdapter
 
 ### Lib-Glide
 
+<br>
 
 Context
 -
+<br>
 
 Life Cycle
 -
+<br>
 
 Activity Data Exchange
 -
@@ -74,23 +76,29 @@ Activity Data Exchange
 ### Parcel
 
 Lib-Parcelable
+<br>
 
-EventBust
+EventBus
 -
+<br>
 
 Loader
 -
+<br>
 
 Fragment
 -
+<br>
 
 Viewpager
 -
+<br>
 
 Storage
 -
 
 SharedPreference, Lib-Hawk
+<br>
 
 
 Service, BroadCastReceiver, ContentProvider
