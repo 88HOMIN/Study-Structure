@@ -185,3 +185,14 @@ MVP, MVVM, Android Architecture Components
 Dagger2
 =
 
+Kotlin
+=
+
+Jetpack
+=
+
+Fabric
+=
+
+Firebase
+=
