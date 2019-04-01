@@ -1,8 +1,8 @@
 Android + Kotlin ~ AWS - Serverless.
 =
 
-#### 안드로이드 코틀린 병렬 학습.
-
+#### 안드로이드 코틀린 병렬 학습을 통해 AWS를 활용, Serveless로 풀스택 개발 유지 보수하기.
+  
 <br>
 
 Android Platform Architecture
